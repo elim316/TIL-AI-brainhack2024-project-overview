@@ -1,6 +1,12 @@
 # Operation Guardian – DSTA BrainHack 2024 Case Study
 
-![Built for DSTA BrainHack](https://img.shields.io/badge/Built%20for-DSTA%20BrainHack%202024-red)
+![Challenge](https://img.shields.io/badge/Event-DSTA%20BrainHack%202024-red)
+![Role](https://img.shields.io/badge/Role-NLP%20Engineer-green)
+![Tech](https://img.shields.io/badge/Built%20With-Python-blue)
+![NLP](https://img.shields.io/badge/NLP-spaCy%20%7C%20NLTK-lightgrey)
+![System](https://img.shields.io/badge/System-Multimodal%20AI-purple)
+![Tools](https://img.shields.io/badge/Tools-Docker%20%7C%20GitHub-brightgreen)
+
 
 This repository documents my contributions to **Operation Guardian**, a challenge project for the DSTA BrainHack 2024. The task was to develop an intelligent system capable of interpreting spoken commands and identifying visual targets in a simulated defense scenario.
 
